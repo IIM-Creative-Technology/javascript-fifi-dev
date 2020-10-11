@@ -5,7 +5,10 @@ let questions = [
         answer: "Donald Trump",
         options: [
       "Donald Trump",
-      "Joe Biden"
+      "Joe Biden",
+      "Nicolas Sarkozy",
+      "Barack Obama",
+      "Angela Merkel"
     ]
   },
     {
@@ -16,7 +19,8 @@ let questions = [
       "Aya Nakamura feat AFROB - Djadja",
       "Aya Nakamura - Brisé",
       "Aya Nakamura - Oublié",
-      "Aya Nakamura - copines"
+      "Aya Nakamura - copines",
+      "Aya Nakamura - doudou"
     ]
   },
     {
@@ -27,7 +31,8 @@ let questions = [
         "Twice",
         "Nizi",
         "ioi",
-        "Izone"
+        "Izone",
+        "Itzy"
     ]
   },
     {
